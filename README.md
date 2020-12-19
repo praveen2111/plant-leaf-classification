@@ -8,7 +8,7 @@ We made a Web Application that allows us to take a plant leaf image and then pre
 Having diseases in plants or crops is not good and detecting what kind of disease it is can really help to make right decisions to remove/prevent the disease. And Deep Learning can really helps in detecting all kinds of plant diesease very accuratly and can be runned through webpages or even mobile phones.
 
 ## How it is used?
-It is really easy to use. Just go to [this](our link) link. And upload your plant leaf image. After uploading the image, the process will automatically start where the deep learning model will take the image and after a few seconds later, predictions will be shown.
+It is really easy to use. Just go to this link: "https://plant-leaf-classification.herokuapp.com/". And upload your plant leaf image. After uploading the image, the process will automatically start where the deep learning model will take the image and after a few seconds later, predictions will be shown.
 
 ![Screenshot (11)](https://user-images.githubusercontent.com/54503215/102689553-00d34100-4225-11eb-8f34-31c82bd6fc03.png)
 
